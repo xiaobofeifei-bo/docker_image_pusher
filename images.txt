@@ -1,4 +1,4 @@
-tomcat:8.5.100
+tomcat:8.5.100-jre8
 #postgres:16.3
 #gitlab/gitlab-ce:17.0.2-ce.0
 #gitlab/gitlab-ee:17.0.2-ee.0
