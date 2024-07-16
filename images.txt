@@ -1,4 +1,4 @@
-elasticsearch:6.8.23
+elasticsearch:6.4.3
 #kibana:7.17.5
 #portainer/portainer-ce:2.20.3
 #portainer/agent:2.20.3
