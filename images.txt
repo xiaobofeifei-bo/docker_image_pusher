@@ -1,5 +1,5 @@
 #elasticsearch:6.4.3
-kibana:6.8.23
+kibana:6.4.3
 #portainer/portainer-ce:2.20.3
 #portainer/agent:2.20.3
 #nacos/nacos-server:v1.4.7
