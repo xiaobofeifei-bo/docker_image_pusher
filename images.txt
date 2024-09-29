@@ -1,9 +1,9 @@
-bladex/sentinel-dashboard:1.8.8
+#bladex/sentinel-dashboard:1.8.8
 #elasticsearch:6.4.3
 #kibana:6.4.3
 #portainer/portainer-ce:2.20.3
 #portainer/agent:2.20.3
-nacos/nacos-server:v2.4.2.1
+nacos/nacos-server:v2.4.0
 #tomcat:11.0.0-M21-jre8
 #postgres:16.3
 #gitlab/gitlab-ce:17.0.2-ce.0
