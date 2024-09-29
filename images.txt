@@ -1,4 +1,4 @@
-bladex/sentinel-dashboard:1.8.0
+bladex/sentinel-dashboard:1.8.7
 #elasticsearch:6.4.3
 #kibana:6.4.3
 #portainer/portainer-ce:2.20.3
