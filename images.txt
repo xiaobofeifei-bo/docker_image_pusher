@@ -1,4 +1,4 @@
-sentinel-server:1.8.8
+sentinel-server
 #elasticsearch:6.4.3
 #kibana:6.4.3
 #portainer/portainer-ce:2.20.3
