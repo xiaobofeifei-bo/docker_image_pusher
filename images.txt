@@ -1,4 +1,4 @@
-bladex/sentinel-dashboard:1.8.6
+#bladex/sentinel-dashboard:1.8.6
 #elasticsearch:6.4.3
 #kibana:6.4.3
 #portainer/portainer-ce:2.20.3
@@ -9,7 +9,7 @@ bladex/sentinel-dashboard:1.8.6
 #gitlab/gitlab-ce:17.0.2-ce.0
 #gitlab/gitlab-ee:17.0.2-ee.0
 #sonarqube:10.6-community
-#nginx
+nginx:1.26.2
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
