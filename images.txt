@@ -9,7 +9,8 @@
 #gitlab/gitlab-ce:17.0.2-ce.0
 #gitlab/gitlab-ee:17.0.2-ee.0
 #sonarqube:10.6-community
-nginx:1.26.2
+#nginx:1.26.2
+minio/minio:RELEASE.2024-10-13T13-34-11Z
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
