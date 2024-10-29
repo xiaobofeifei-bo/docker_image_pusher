@@ -1,9 +1,10 @@
 #bladex/sentinel-dashboard:1.8.6
 #elasticsearch:6.4.3
 #kibana:6.4.3
+xuxueli/xxl-job-admin:2.4.1
 #portainer/portainer-ce:2.20.3
 #portainer/agent:2.20.3
-nacos/nacos-server:v2.4.3
+#nacos/nacos-server:v2.4.3
 #tomcat:11.0.0-M21-jre8
 #tomcat:9.0.96
 #postgres:16.3
