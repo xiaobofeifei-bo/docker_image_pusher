@@ -6,7 +6,7 @@
 #apache/dolphinscheduler-api:3.2.2
 #apache/dolphinscheduler-alert-server:3.2.2
 ##########################################################
-hametan/datax-web:2.1.2
+#hametan/datax-web:2.1.2
 #bladex/sentinel-dashboard:1.8.6
 #elasticsearch:6.4.3
 #kibana:6.4.3
@@ -22,6 +22,7 @@ hametan/datax-web:2.1.2
 #gitlab/gitlab-ee:17.0.2-ee.0
 #sonarqube:10.6-community
 #nginx:1.26.2
+mysql:8.0.26
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
