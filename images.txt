@@ -22,7 +22,8 @@
 #gitlab/gitlab-ee:17.0.2-ee.0
 #sonarqube:10.6-community
 #openjdk:8-jre
-busybox:1.37.0
+#busybox:1.37.0
+python:2.7.18
 #nginx:1.26.2
 #mysql:8.0.26
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
