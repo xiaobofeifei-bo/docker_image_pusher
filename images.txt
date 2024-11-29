@@ -21,7 +21,7 @@
 #gitlab/gitlab-ce:17.0.2-ce.0
 #gitlab/gitlab-ee:17.0.2-ee.0
 #sonarqube:10.6-community
-openjdk:8.265
+openjdk:8-jre
 #nginx:1.26.2
 #mysql:8.0.26
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
