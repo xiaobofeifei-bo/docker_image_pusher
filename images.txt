@@ -23,7 +23,7 @@
 #sonarqube:10.6-community
 #openjdk:8-jre
 #busybox:1.37.0
-python:2.7.18
+python:3.13.0
 #nginx:1.26.2
 #mysql:8.0.26
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
