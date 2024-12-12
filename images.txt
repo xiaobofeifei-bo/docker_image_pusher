@@ -8,7 +8,8 @@
 ##########################################################
 #hametan/datax-web:2.1.2
 #bladex/sentinel-dashboard:1.8.6
-elasticsearch:8.16.1
+#elasticsearch:8.16.1
+filebeat:8.16.1
 #kibana:6.4.3
 #xuxueli/xxl-job-admin:2.4.1
 #portainer/portainer-ce:2.20.3
