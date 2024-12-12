@@ -8,7 +8,7 @@
 ##########################################################
 #hametan/datax-web:2.1.2
 #bladex/sentinel-dashboard:1.8.6
-#elasticsearch:6.4.3
+elasticsearch:8.16.1
 #kibana:6.4.3
 #xuxueli/xxl-job-admin:2.4.1
 #portainer/portainer-ce:2.20.3
@@ -23,7 +23,7 @@
 #sonarqube:10.6-community
 #openjdk:8-jre
 #busybox:1.37.0
-python:3.13.0
+#python:3.13.0
 #nginx:1.26.2
 #mysql:8.0.26
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
