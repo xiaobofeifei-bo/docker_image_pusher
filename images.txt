@@ -8,9 +8,10 @@
 ##########################################################
 #hametan/datax-web:2.1.2
 #bladex/sentinel-dashboard:1.8.6
-elasticsearch:7.17.28
-#docker.elastic.co/beats/filebeat:8.16.1
+#elasticsearch:7.17.28
+logstash:7.17.28
 #kibana:8.16.1
+#docker.elastic.co/beats/filebeat:8.16.1
 #xuxueli/xxl-job-admin:2.4.1
 #portainer/portainer-ce:2.20.3
 #portainer/agent:2.20.3
