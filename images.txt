@@ -26,7 +26,7 @@
 #postgres:16.3
 #zookeeper:3.9.3
 #gitlab/gitlab-ce:17.0.2-ce.0
-gitlab/gitlab-ee:17.2.1-ee.0
+gitlab/gitlab-ee:17.2.0-ee.0
 #sonarqube:10.6-community
 #openjdk:8-jre
 #busybox:1.37.0
