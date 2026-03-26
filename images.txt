@@ -34,7 +34,7 @@
 #nginx:1.26.2
 #mysql:8.0.26
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
-minio/mc:RELEASE.2025-09-07T16-13-09Z
+minio/mc:RELEASE.2025-05-21T01-59-54Z
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
